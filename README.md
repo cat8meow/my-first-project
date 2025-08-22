@@ -12,3 +12,9 @@ git clone https://github.com/cat8meow/my-first-project.git
    git add .
    git commit -m "Мой первый коммит: рождение вселенной"
    git push origin main
+gitignore
+# Python  
+__pycache__/  
+*.py[cod]  
+# Jupyter  
+.ipynb_checkpoints/  
